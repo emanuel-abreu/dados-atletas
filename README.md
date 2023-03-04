@@ -1,4 +1,4 @@
 # dados-atletas
 Projeto 2 do curso DEVstart, disponibilizado pelo LAB365.
 
-teste
+Uma aplicação capaz de receber informações de um atleta, bem como calcular parâmetros e exibi-los para o usuário.
